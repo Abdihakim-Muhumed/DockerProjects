@@ -1,0 +1,4 @@
+# A docker image to run hello world
+FROM busybox:latest
+
+CMD echo "Hello world ! Welcome to Moringa School."
